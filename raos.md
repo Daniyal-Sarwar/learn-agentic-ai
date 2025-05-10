@@ -1,6 +1,6 @@
 ## 🚀 Introducing RecursiveAgenticOS (RAOS): The Self-Managing OS for AI Agents
 
-(Pronounced “RAY-oss”)
+(Pronounced “RAY-osss”)
 
 *“Agents that create, deploy, monitor & improve other agents—powered by Dapr, Kubernetes, Helm, Prometheus and deep AI reasoning.”*
 
